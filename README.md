@@ -7,7 +7,7 @@ I’m focusing on building strong fundamentals and improving consistently throug
 To become confident in JavaScript and move towards real-world development.
 
 ## 📚 Learning Resources
-* YouTube: Serian's Coding Spoons
+* YouTube: Sheryians Coding School
 *(Concepts learned are practiced and implemented in my own way in this repository.)*
 
 I learn → I practice → I build → I improve
